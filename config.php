@@ -1,0 +1,16 @@
+<?php
+	$domain='jeak.ru/hp';
+	$dbhost='localhost';
+	$dbuser='usr4_jeak';
+	$dbpass='xlhbk5Ml';
+	$dbname='usr4_ololo';
+	$sitename='Footballinvest';
+	$pm_user='450560';
+	$pm_pass='h8fasd*/;231asdfsfmzcxv90).SWQ';
+	$pm_purse='U2242658';
+	$code='ololo_secutity_bl';
+	$lr_purse='U6254886';
+	$lr_pass='h8fasd*/;231asdfsfmzcxv90).SWQ';
+	$lr_code='21E3B13DA7279EADE89D06D5R';
+	$bypage=20;
+?>
